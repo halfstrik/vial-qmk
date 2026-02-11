@@ -1,0 +1,1 @@
+#USE_FULL_LIBC = no
