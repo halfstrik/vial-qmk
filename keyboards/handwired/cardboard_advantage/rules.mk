@@ -1,1 +1,1 @@
-#USE_FULL_LIBC = no
+BOOTLOADER = rp2040
