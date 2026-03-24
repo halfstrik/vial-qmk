@@ -1,7 +1,7 @@
 {
     "manufacturer": "Sergey Petrunin",
-    "keyboard_name": "handwired/cardboard_advantage",
-    "maintainer": "sergey-petrunin",
+    "keyboard_name": "codereimagine_unibody",
+    "maintainer": "Sergey Petrunin",
     "development_board": "kb2040",
     "diode_direction": "ROW2COL",
     "features": {
@@ -11,8 +11,8 @@
         "nkro": true
     },
     "matrix_pins": {
-        "rows": ["GP19", "GP21", "GP22", "GP27", "GP28", "GP18"],
-        "cols": ["GP2", "GP5", "GP7", "GP9", "GP11", "GP13", "GP12", "GP14", "GP8", "GP6", "GP4", "GP1"]
+        "rows": ["GP3", "GP5", "GP7", "GP9", "GP10", "GP12"],
+        "cols": ["GP17", "GP20", "GP8", "GP27", "GP28", "GP1", "GP29", "GP18", "GP26", "GP22", "GP21", "GP16"]
     },
     "url": "",
     "usb": {
