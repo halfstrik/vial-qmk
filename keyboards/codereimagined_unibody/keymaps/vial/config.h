@@ -11,7 +11,7 @@
 #define RGB_MATRIX_SLEEP
 
 #define WS2812_BYTE_ORDER WS2812_BYTE_ORDER_GRB
-#define WS2812_DI_PIN GP4
+#define WS2812_DI_PIN GP22
 
 #define RGB_MATRIX_DEFAULT_ON true         // LEDs turn on by default
 #define RGB_MATRIX_DEFAULT_MODE 1
